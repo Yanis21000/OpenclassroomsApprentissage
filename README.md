@@ -8,7 +8,8 @@ Openclassrooms-Apprentissage
   </head>
 
   <body>
-    <p> Voici mes animaux préférés : </p>
+   <h1>Les animaux merveilleux</h1>
+   <p> Voici mes animaux préférés : </p>
     
   <ul>
       <li> <strong> Panda </strong> </li>
